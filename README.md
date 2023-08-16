@@ -18,6 +18,6 @@ final exercise: for the final exercise I used both an ADC and a DAC to build a s
                   5. modulo
                   6. power 
                   7. floor division
-                  8. comparator 
+                  8. comparator. 
 the inputs and the instruction are all controlled by volts ( an ADC and a potentiometer), while the output result voltage is shown on a voltmeter (through a DAC). 
                   
