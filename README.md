@@ -10,7 +10,7 @@ exercise 2: I've built an alarm clock, when turned on you can enter the actual t
 exercise 3: I've used an ADC model and a potentiometer (to control voltage) for every increase of 0.5 volts the frequency of the blinking LED changes by 
             1HZ. When the input volt is higher than 2.3V I print " OVER RANGE" on the LCD.
             
-final exercise: for the final exercise I used both an ADC and a DAC in order to build a simple processor that does the following instructions:
+final exercise: for the final exercise I used both an ADC and a DAC to build a simple processor that does the following instructions:
                   1. adding 
                   2. subtracting 
                   3. multiplying
@@ -19,7 +19,5 @@ final exercise: for the final exercise I used both an ADC and a DAC in order to 
                   6. power 
                   7. floor division
                   8. comparator 
-                  
-                the inputs and the instruction are all controlled by volts ( an ADC and a potentiometer), while the output result voltage is shown 
-                on a voltmeter (through a DAC). 
+the inputs and the instruction are all controlled by volts ( an ADC and a potentiometer), while the output result voltage is shown on a voltmeter (through a DAC). 
                   
